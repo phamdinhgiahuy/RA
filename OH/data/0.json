@@ -1,0 +1,2163 @@
+{
+    "typ": "a",
+    "usr": [
+        {
+            "uid": "57f56c56178f4e557a7b25cd",
+            "nam": "2 Bikers and a Farm",
+            "loc": [
+                -83.500304,
+                39.990296
+            ]
+        },
+        {
+            "uid": "57f56c56178f4e557a7b25ce",
+            "nam": "2nd Street Public Market",
+            "loc": [
+                -84.1807161,
+                39.7626377
+            ]
+        },
+        {
+            "uid": "5b474eabf033bfbf37af2da3",
+            "nam": "Adams County Farmer's Market",
+            "cnm": "2021 Season: May 8-September 25 9:00-1:00 at 110 W. Main St. West Union, OH",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5b474eabf033bfbf37af2da3_lgl.jpg?1532369042"
+            },
+            "loc": [
+                -83.5461186,
+                38.7954559
+            ]
+        },
+        {
+            "uid": "57f56c56178f4e557a7b25d0",
+            "nam": "Akron Farm and Flea Mkt",
+            "loc": [
+                -81.5157856,
+                41.0855947
+            ]
+        },
+        {
+            "uid": "591f2a3407ac806b0be652e1",
+            "nam": "All Life Community Market",
+            "cnm": "Thursday&apos;s 4-7pm June-October Location: 5700 Columbus Pike, Lewis Center",
+            "loc": [
+                -83.0353639,
+                40.2135731
+            ]
+        },
+        {
+            "uid": "57f56c56178f4e557a7b25d2",
+            "nam": "Alta's Farmer's Market",
+            "loc": [
+                -82.570323,
+                40.734167
+            ]
+        },
+        {
+            "uid": "59075a6e07ac80eb36be68db",
+            "nam": "Ashtabula Farmers' Market",
+            "cnm": "Open the 2nd Sunday June - October from 10 am to 2 pm.",
+            "loc": [
+                -80.820856,
+                41.809108
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25d6",
+            "nam": "Attica Farmers Market",
+            "loc": [
+                -82.8875918,
+                41.0645187
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2702",
+            "nam": "Aurora Farmers Market",
+            "loc": [
+                -81.433369,
+                41.227479
+            ]
+        },
+        {
+            "uid": "5ce40f74afd691ef5fdec729",
+            "nam": "Austintown Farmers market",
+            "loc": [
+                -80.7797395,
+                41.1053019
+            ]
+        },
+        {
+            "uid": "5adf2a1ef033bf56744f879a",
+            "nam": "Avon Lake Farmers Market",
+            "cnm": "June - August: Tuesdays 4pm - 7pm",
+            "loc": [
+                -82.020624,
+                41.509613
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25d9",
+            "nam": "BALTIMORE FARMER'S MARKET",
+            "loc": [
+                -82.6007185,
+                39.8453418
+            ]
+        },
+        {
+            "uid": "57f56c52178f4e557a7b23e2",
+            "nam": "Bauman Orchards, Inc.",
+            "cnm": "Apples, peaches, strawberries, pears & other fruits & vegetables. Open daily.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/57f56c52178f4e557a7b23e2_lgl.jpg?1648749343"
+            },
+            "loc": [
+                -81.7985069,
+                40.9710874
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25dc",
+            "nam": "Beavercreek Farmers' Market",
+            "cnm": "Vineyard Church Parking Lot , Indian Ripple Road, Beavercreek, Ohio",
+            "loc": [
+                -84.0872312,
+                39.6945075
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25dd",
+            "nam": "Bellville Farmers Market",
+            "loc": [
+                -82.5108489,
+                40.688933
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25e5",
+            "nam": "Blendon Township Community Summer Market",
+            "loc": [
+                -82.9049054,
+                40.0975303
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25e6",
+            "nam": "Blooming Grove Auction, Inc.",
+            "loc": [
+                -82.5638099,
+                40.9602753
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25ea",
+            "nam": "Bluffton Farmers' Market",
+            "loc": [
+                -83.8232465,
+                40.7734893
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25ef",
+            "nam": "Bremen Farmer's Market",
+            "loc": [
+                -82.4270262,
+                39.7020083
+            ]
+        },
+        {
+            "uid": "62cd90a526155d1fe2694adc",
+            "nam": "Bronzeville Growers Market",
+            "cnm": "First Thursday in July to last Thursday in September, from 3 to 6 pm",
+            "loc": [
+                -82.9513741,
+                39.9628582
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f1",
+            "nam": "Buckeye Lake Farmers Market",
+            "loc": [
+                -82.4828,
+                39.954083
+            ]
+        },
+        {
+            "uid": "5e135d5fe79c69328d3548ed",
+            "nam": "Caesar Creek Farmers Market",
+            "cnm": "Open Saturdays and Sundays during April-October from 9AM to 5PM.",
+            "loc": [
+                -83.9504849,
+                39.4850845
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f4",
+            "nam": "Caldwell Farmers' Market",
+            "loc": [
+                -81.5645164,
+                39.6793029
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f6",
+            "nam": "Cameron Tree Farm",
+            "loc": [
+                -82.497376,
+                40.343825
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f7",
+            "nam": "Canal Fulton NW Senior Center",
+            "loc": [
+                -81.590128,
+                40.887076
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f8",
+            "nam": "Canal Winchester Farmers' Market",
+            "loc": [
+                -82.8123646,
+                39.8466556
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25f9",
+            "nam": "Canton Farmers' Market",
+            "loc": [
+                -81.3739212,
+                40.7995654
+            ]
+        },
+        {
+            "uid": "58c97e3507ac80a5522e52a7",
+            "nam": "Canton Farmers' Market",
+            "cnm": "Saturdays, June 12- September 25, 10am-1pm Closed: August 7 & September 4",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/58c97e3507ac80a5522e52a7_lgl.jpg?1620658808"
+            },
+            "loc": [
+                -81.3084361,
+                40.9174792
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25fd",
+            "nam": "Cedarville Farm & Art Market",
+            "loc": [
+                -83.8085372,
+                39.7442268
+            ]
+        },
+        {
+            "uid": "5adf2c49afd691337565f916",
+            "nam": "Celina Farmers Market",
+            "cnm": "May - September: Saturdays 9AM-12:30PM",
+            "loc": [
+                -84.5839884,
+                40.5499443
+            ]
+        },
+        {
+            "uid": "5e29c352016bdc36ba3c0224",
+            "nam": "Centerville Farmers Market",
+            "cnm": "Open every Thursday May-October 3-7 pm",
+            "loc": [
+                -84.162494,
+                39.6132103
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b25fe",
+            "nam": "ChampaignLocallyGrown.net",
+            "loc": [
+                -83.5121144,
+                40.0693496
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2600",
+            "nam": "Chardon Farmers Market",
+            "loc": [
+                -81.2133262,
+                41.5786639
+            ]
+        },
+        {
+            "uid": "58c963b5178f4ec824b1ff10",
+            "nam": "Chillicothe Farmers Market",
+            "cnm": "Location: 475 Western Ave., Chillicothe Open Saturdays, May - Oct. 8 am-noon",
+            "loc": [
+                -83.0161696,
+                39.437627
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2603",
+            "nam": "Cider House Farms",
+            "loc": [
+                -83.116646,
+                40.554679
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2604",
+            "nam": "Cinnamon Mini Farm",
+            "loc": [
+                -84.213852,
+                38.936131
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2605",
+            "nam": "City of Green",
+            "loc": [
+                -81.4647173,
+                40.9323695
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2606",
+            "nam": "City of Painesville",
+            "loc": [
+                -81.2460324,
+                41.724079
+            ]
+        },
+        {
+            "uid": "5d0d15d4afd6910a6120bbdb",
+            "nam": "City of Seven Hills Farmers Market",
+            "cnm": "Open Thursday&apos;s July -September from 4pm-7pm. 7221 Broadview Road, Seven Hills",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5d0d15d4afd6910a6120bbdb_lgl.jpg?1585751551"
+            },
+            "loc": [
+                -81.6846099,
+                41.3690643
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2608",
+            "nam": "City of Strongsville",
+            "loc": [
+                -81.8272274,
+                41.3186525
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2609",
+            "nam": "City of Trotwood-YMCA Farmers Market",
+            "loc": [
+                -84.2932336,
+                39.7982623
+            ]
+        },
+        {
+            "uid": "5d63ffb5f033bfb25b44dda6",
+            "nam": "City of Washington Court House Scarecrow Market",
+            "cnm": "Food and Product sales weekends from April 1st through November 1st every year.",
+            "loc": [
+                -83.4403225,
+                39.5358019
+            ]
+        },
+        {
+            "uid": "5b4746b3afd6917f2a6743b0",
+            "nam": "Clintonville Farmers Market",
+            "loc": [
+                -83.016898,
+                40.034158
+            ]
+        },
+        {
+            "uid": "601ad1f250a7000c1e1d3da5",
+            "nam": "Coit Road Farmers' Market",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/601ad1f250a7000c1e1d3da5_lgl.jpg?1612370538"
+            },
+            "loc": [
+                -81.5776367,
+                41.5448246
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b260d",
+            "nam": "Coldwater's Famers' Market",
+            "loc": [
+                -84.6287258,
+                40.4740514
+            ]
+        },
+        {
+            "uid": "621e3b45cf3cd309974f4828",
+            "nam": "Coshocton Farmers Market",
+            "loc": [
+                -81.8595756,
+                40.2720151
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2612",
+            "nam": "Country Fresh",
+            "loc": [
+                -82.951177,
+                40.014499
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2613",
+            "nam": "Country Lane Market",
+            "loc": [
+                -84.623288,
+                39.960868
+            ]
+        },
+        {
+            "uid": "5adf1dedf033bfbe714f879a",
+            "nam": "Countryside Farmers' Market at Howe Meadow",
+            "cnm": "Open every Saturday 9am - Noon. Season starts April 21 through October 27",
+            "loc": [
+                -81.5835977,
+                41.1892945
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2615",
+            "nam": "Courthouse Square Farmer's Market",
+            "loc": [
+                -84.1918305,
+                39.7595363
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b261a",
+            "nam": "Daniels Family Farm at Lancaster's Downtown Farmer's Market",
+            "loc": [
+                -82.6011,
+                39.78386
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b261b",
+            "nam": "Delaware county Community Market",
+            "loc": [
+                -83.067965,
+                40.2986724
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b261c",
+            "nam": "Delta Farmers' Market",
+            "loc": [
+                -84.0054947,
+                41.5740267
+            ]
+        },
+        {
+            "uid": "57f56c53178f4e557a7b2441",
+            "nam": "Destination: Canal Winchester",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/57f56c53178f4e557a7b2441_lgl.jpg?1585751957"
+            },
+            "loc": [
+                -82.8123646,
+                39.8466556
+            ]
+        },
+        {
+            "uid": "595696989865a19b317b23c6",
+            "nam": "Downs Farm Market & Greenhouse",
+            "cnm": "Open Monday through Saturday 10 am to 6 pm Mid April - October.",
+            "loc": [
+                -82.5915085,
+                40.8016677
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2624",
+            "nam": "Downtown Barberton Farmers' Market",
+            "loc": [
+                -81.6076749,
+                41.0150004
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2625",
+            "nam": "Downtown Bowling Green Farmer's Market",
+            "loc": [
+                -83.649809,
+                41.375135
+            ]
+        },
+        {
+            "uid": "628fa956516fe13b512eaf06",
+            "nam": "Downtown Defiance Farmers' Market",
+            "cnm": "Mid-May thru August Thursdays 4 pm - 6:30 pm",
+            "loc": [
+                -84.3621735,
+                41.2858625
+            ]
+        },
+        {
+            "uid": "5b86985dafd691260521d3ae",
+            "nam": "Downtown Franklin Ohio Farmers Market",
+            "cnm": "Open Saturdays, June- September 9am-1pm",
+            "loc": [
+                -84.3030102,
+                39.5596565
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2626",
+            "nam": "Downtown Fremont Farmer's Market",
+            "loc": [
+                -83.1142762,
+                41.3452516
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2627",
+            "nam": "Downtown Lakeview Farmers Market",
+            "loc": [
+                -83.8927162,
+                40.4711612
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2628",
+            "nam": "Downtown Mansfield Farmer's Market",
+            "loc": [
+                -82.514822,
+                40.766043
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2629",
+            "nam": "Downtown Marion Market",
+            "loc": [
+                -83.1317229,
+                40.588218
+            ]
+        },
+        {
+            "uid": "58c986229865a1c42be64ac1",
+            "nam": "Downtown Marion Market",
+            "cnm": "Open every Thursday 4 pm - 7 pm, May 4 - October 12.",
+            "loc": [
+                -83.1325688,
+                40.5888828
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b262a",
+            "nam": "Downtown Troy Farmers Market",
+            "loc": [
+                -84.204227,
+                40.0396458
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b262f",
+            "nam": "East Liverpool Farmers Market",
+            "loc": [
+                -80.5782776,
+                40.6187614
+            ]
+        },
+        {
+            "uid": "61140b875d3e9d55e34e5edb",
+            "nam": "Fairborn Farmers' Market",
+            "loc": [
+                -84.0227013,
+                39.8269835
+            ]
+        },
+        {
+            "uid": "6011ba0cbb11a770aa22abb7",
+            "nam": "Farmers Market at The Heights",
+            "cnm": "May to October. Saturdays 10 am to 2 pm",
+            "loc": [
+                -84.0998872,
+                39.8785118
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2633",
+            "nam": "FBC Farmers Market",
+            "loc": [
+                -81.5495354,
+                41.4859445
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2634",
+            "nam": "FCI Marketplace",
+            "loc": [
+                -82.951177,
+                40.014499
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2635",
+            "nam": "Fifth Street Farmers' Market",
+            "loc": [
+                -83.1707507,
+                40.9497783
+            ]
+        },
+        {
+            "uid": "5b72d58ff033bf766448e1c1",
+            "nam": "Forty Acres & Some Trees LLC",
+            "cnm": "Nursery and Farm Market  Distinctive and Unexpected!",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5b72d58ff033bf766448e1c1_lgl.jpg?1546267366"
+            },
+            "loc": [
+                -82.7744828,
+                40.3192831
+            ]
+        },
+        {
+            "uid": "5e2898ed016bdc02214cf60f",
+            "nam": "Fostoria Farmers' Market",
+            "loc": [
+                -83.4170734,
+                41.163122
+            ]
+        },
+        {
+            "uid": "58b086e89865a18e6dd2cdbc",
+            "nam": "Franklin Park Conservatory and Botanical Gardens",
+            "cnm": "Wednesdays, June 7- Sept. 27, 3:00 - 6:30 pm in the Wells Barn parking lot.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/58b086e89865a18e6dd2cdbc_lgl.jpg?1672763740"
+            },
+            "loc": [
+                -82.9538624,
+                39.9659098
+            ]
+        },
+        {
+            "uid": "5b475afaf033bf123baf2da3",
+            "nam": "Friends Food and Craft Market",
+            "cnm": "Open Saturdays Summer 9:30am-1pm, Winter 10am-1pm",
+            "loc": [
+                -81.3575844,
+                41.1634334
+            ]
+        },
+        {
+            "uid": "5adf2724f033bfa9734f879d",
+            "nam": "Frostville Museum Farmers' Market",
+            "loc": [
+                -81.8916596,
+                41.4054884
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b263f",
+            "nam": "Ft. Loramie Farmer's Market",
+            "loc": [
+                -84.3917228,
+                40.2995663
+            ]
+        },
+        {
+            "uid": "5cb5f6f6afd691aa4ac8a953",
+            "nam": "Gahanna Farmers Market",
+            "cnm": "Wednesday, June thru September, from 4- 7pm at the Gahanna Sanctuary Gallery",
+            "loc": [
+                -82.8687524,
+                40.0160335
+            ]
+        },
+        {
+            "uid": "57f56c57178f4e557a7b2642",
+            "nam": "Gallia County Farmer's Market",
+            "loc": [
+                -82.1792698,
+                38.9382806
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2644",
+            "nam": "Garden Station Sunday Market",
+            "loc": [
+                -84.1831868,
+                39.759389
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2647",
+            "nam": "Gateway105 Farmers' Market",
+            "loc": [
+                -81.6212425,
+                41.5204462
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2648",
+            "nam": "Geneva Farmers Market",
+            "loc": [
+                -80.9491054,
+                41.8037156
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2649",
+            "nam": "Genoa Farmers' Market",
+            "loc": [
+                -83.359094,
+                41.5181064
+            ]
+        },
+        {
+            "uid": "5d4fecaaafd6915043cbce1c",
+            "nam": "German Village Farmers Market",
+            "cnm": "Open May 6- November 18 from 9am-1pm",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5d4fecaaafd6915043cbce1c_lgl.jpg?1684249889"
+            },
+            "loc": [
+                -82.9950289,
+                39.9503951
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b264a",
+            "nam": "germantown farmers' market",
+            "loc": [
+                -84.3722128,
+                39.6257534
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b264b",
+            "nam": "Giacomo's Farmers' Market",
+            "loc": [
+                -82.0095724,
+                39.9653716
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b264c",
+            "nam": "Gnadenhutten Farmer's Market",
+            "loc": [
+                -81.4342809,
+                40.3584006
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b264e",
+            "nam": "Grandview Avenue Farmers' Market",
+            "loc": [
+                -83.5384434,
+                40.6182332
+            ]
+        },
+        {
+            "uid": "5e4705babf9c5a04911d48c2",
+            "nam": "Granville Farmers Market",
+            "cnm": "May 1 through October 30 Saturdays- 8:30 am to Noon   at Raccoon Valley Park",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5e4705babf9c5a04911d48c2_lgl.jpg?1615833062"
+            },
+            "loc": [
+                -82.5198514,
+                40.0668731
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2650",
+            "nam": "Great American Lamb Company",
+            "loc": [
+                -81.22866,
+                41.451726
+            ]
+        },
+        {
+            "uid": "6113e7b04f9044582958dfc8",
+            "nam": "Great Lakes Market",
+            "loc": [
+                -81.4490349,
+                41.6655891
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2651",
+            "nam": "Greater Goshen Farmers Market",
+            "loc": [
+                -84.1633688,
+                39.2345956
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2653",
+            "nam": "Green Farmers Market",
+            "loc": [
+                -81.4647173,
+                40.9323695
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2654",
+            "nam": "Greenfield Farmers Market",
+            "loc": [
+                -83.471382,
+                39.377024
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2655",
+            "nam": "Greenwich Farmers' Market Place",
+            "loc": [
+                -82.5194934,
+                41.0289641
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2658",
+            "nam": "Groveport Farmers' Market & More",
+            "loc": [
+                -82.888276,
+                39.8532057
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b265a",
+            "nam": "Hamilton's Historic Farmer's Market",
+            "loc": [
+                -84.5363859,
+                39.408046
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b265b",
+            "nam": "Hanks's Lawn Care and Produce",
+            "loc": [
+                -83.4219789,
+                39.041414
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b265c",
+            "nam": "Hannah Farms",
+            "loc": [
+                -81.26335,
+                40.964234
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b265d",
+            "nam": "Hartville Market Place and Flea Market",
+            "loc": [
+                -81.3609169,
+                40.9738911
+            ]
+        },
+        {
+            "uid": "5950fa92178f4e3941df283b",
+            "nam": "Haymaker Farmers' Market",
+            "cnm": "Open Saturdays 9 am-1 pm May-October. Indoor Market November-April, 10am- 1pm",
+            "loc": [
+                -81.3578859,
+                41.1536674
+            ]
+        },
+        {
+            "uid": "57f56c55178f4e557a7b2506",
+            "nam": "Healthy New Albany Farmers Market",
+            "cnm": "Open Thursdays 4pm - 7pm late June - September at the Market Square.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/57f56c55178f4e557a7b2506_lgl.jpg?1614012133"
+            },
+            "loc": [
+                -82.8125942,
+                40.0814464
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b265e",
+            "nam": "Henry's Garden Patch",
+            "loc": [
+                -84.286398,
+                41.4421968
+            ]
+        },
+        {
+            "uid": "5c0535fcafd6918e48e4fd56",
+            "nam": "Hilliard Farm Market",
+            "cnm": "Open Tuesdays 4PM-7PM from May 28, 2019 to September 10, 2019",
+            "loc": [
+                -83.0844532,
+                39.9647732
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2663",
+            "nam": "Hillsboro Farmers' Market",
+            "loc": [
+                -83.6119073,
+                39.2030296
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2665",
+            "nam": "Holy Trinity Farmers Market",
+            "cnm": "Opening for 12th season on Tuesday, May 25, 2021",
+            "loc": [
+                -82.5108489,
+                40.688933
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2669",
+            "nam": "Hopedale Farmers' Market",
+            "loc": [
+                -80.9446785,
+                40.3668278
+            ]
+        },
+        {
+            "uid": "58c95ca0178f4eba22b1ff10",
+            "nam": "Howland Farmer's Market",
+            "loc": [
+                -80.7470933,
+                41.2384999
+            ]
+        },
+        {
+            "uid": "5963de54178f4ef63c78b97c",
+            "nam": "Howland Farmers Market",
+            "loc": [
+                -80.7410618,
+                41.2397585
+            ]
+        },
+        {
+            "uid": "5858022e9865a198328a1ec7",
+            "nam": "HTH Farm Market",
+            "cnm": "Fresh Ohio produce, cider, candy, jelly baked good, honey, maple syrup and more.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5858022e9865a198328a1ec7_lgl.jpg?1483622037"
+            },
+            "loc": [
+                -83.0528393,
+                40.090663
+            ]
+        },
+        {
+            "uid": "611164a155d85b15145c8d24",
+            "nam": "Hyde Park Farmers' Market",
+            "cnm": "Erie Ave. and Edwards Rd., 2700 Erie Road, Cincinnati, Ohio 45208",
+            "loc": [
+                -84.4356468,
+                39.1335733
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b266b",
+            "nam": "Independence Farmer's Market",
+            "loc": [
+                -81.638074,
+                41.383942
+            ]
+        },
+        {
+            "uid": "6425c874be53974b00709a82",
+            "nam": "Jackson Farmers Market",
+            "loc": [
+                -81.485093,
+                40.8650032
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b266d",
+            "nam": "Jackson Farmers Market",
+            "loc": [
+                -82.767999,
+                38.9919483
+            ]
+        },
+        {
+            "uid": "58ef67a507ac80312fa958c0",
+            "nam": "Jackson Township Farmers Market",
+            "cnm": "Open Wednesdays, 3pm - 7pm; July 6- September 28",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/58ef67a507ac80312fa958c0_lgl.jpg?1585683132"
+            },
+            "loc": [
+                -81.4850575,
+                40.8649686,
+                -81.4851788,
+                40.8650095
+            ]
+        },
+        {
+            "uid": "5fda44936b4e072ff5173ab5",
+            "nam": "Jae'Lynn's Fantastic Florals & Farm Stand",
+            "loc": [
+                -81.8597646,
+                41.2429407
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2670",
+            "nam": "Johnstown Farmer's Market",
+            "loc": [
+                -82.682203,
+                40.148107
+            ]
+        },
+        {
+            "uid": "63e01e63772a574853528fd4",
+            "nam": "Just Farmin'",
+            "loc": [
+                -84.5103581,
+                39.4613473
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2674",
+            "nam": "Ka-La Healing Garden Center",
+            "loc": [
+                -81.604908,
+                41.45301
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2683",
+            "nam": "L. E. Huck & Sons Farm",
+            "loc": [
+                -81.469724,
+                39.473612
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2684",
+            "nam": "Lake Township Farmers' Market",
+            "loc": [
+                -83.483229,
+                41.558329
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2685",
+            "nam": "Lakeland Local Market",
+            "loc": [
+                -81.3614985,
+                41.6289365
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2686",
+            "nam": "Lakeside Farmer's Market",
+            "loc": [
+                -82.7500493,
+                41.5443474
+            ]
+        },
+        {
+            "uid": "5cee705cafd691e62dee7694",
+            "nam": "Laurelville Farmer's Market",
+            "cnm": "Open Saturdays May 25-October 5 from 9am-12pm",
+            "loc": [
+                -82.8311574,
+                39.6053328
+            ]
+        },
+        {
+            "uid": "5cdd6bb0afd691db42c7a8a9",
+            "nam": "LCCC Farmers' Market",
+            "cnm": "Open Thursdays, June 6th-August 22nd from 4pm-7pm. No market on July 4th.",
+            "loc": [
+                -82.0710156,
+                41.4107851
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2689",
+            "nam": "Lebanon Ohio Farmer's Market",
+            "loc": [
+                -84.2079198,
+                39.4335099
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b268c",
+            "nam": "Lincoln Ridge Farms",
+            "loc": [
+                -84.6946793,
+                40.9383164
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b268d",
+            "nam": "Lindsey Tree Commission Farmer's Market",
+            "loc": [
+                -83.2213115,
+                41.4189403
+            ]
+        },
+        {
+            "uid": "57f56c54178f4e557a7b24d0",
+            "nam": "Lohstroh Family Farms",
+            "cnm": "U-pick Pumpkins, sunflower fields and fun at the farm.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/57f56c54178f4e557a7b24d0_lgl.jpg?1585855696"
+            },
+            "loc": [
+                -83.258062,
+                39.711263
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2690",
+            "nam": "Magic Market",
+            "loc": [
+                -80.6336888,
+                41.0192357
+            ]
+        },
+        {
+            "uid": "5c87fde2f033bf7d1e40bfdf",
+            "nam": "Main Street Delaware Farmers' Market",
+            "cnm": "Delaware Farmers&apos; Market presented by Main Street Delaware",
+            "loc": [
+                -83.0668397,
+                40.2999035
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2691",
+            "nam": "Main Street Market",
+            "loc": [
+                -82.8274014,
+                40.5492265
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2692",
+            "nam": "Main Street Portsmouth Farmers Market",
+            "loc": [
+                -82.9976742,
+                38.7317431
+            ]
+        },
+        {
+            "uid": "5cbf1544f033bfc22e998a60",
+            "nam": "Main Street Wadsworth Farmers Market",
+            "cnm": "Saturdays, June 12 -September 25 from 9 AM - 12 PM.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/5cbf1544f033bfc22e998a60_lgl.jpg?1581285783"
+            },
+            "loc": [
+                -81.7299404,
+                41.0252593
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2693",
+            "nam": "MANTUA VILLAGE - ROTARY COUNTRY MARKET",
+            "loc": [
+                -81.237626,
+                41.266614
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2694",
+            "nam": "Maple Lawn Farm",
+            "loc": [
+                -82.8408618,
+                39.8112102
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2695",
+            "nam": "Market at 15th & High",
+            "loc": [
+                -83.321675,
+                40.176818
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2696",
+            "nam": "Market Central",
+            "loc": [
+                -82.469284,
+                40.758723
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2697",
+            "nam": "Market Day",
+            "loc": [
+                -80.6057971,
+                40.9176861
+            ]
+        },
+        {
+            "uid": "6425c39aa06bb54fde07b172",
+            "nam": "Market on Main",
+            "loc": [
+                -83.6089525,
+                40.6453317
+            ]
+        },
+        {
+            "uid": "601acd15df52de221d014273",
+            "nam": "Market on the Green",
+            "cnm": "June 1 through August 31. Every Tuesday 4:00pm to 6:30pm.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/601acd15df52de221d014273_lgl.jpg?1612369617"
+            },
+            "loc": [
+                -82.8777857,
+                39.9749275
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2698",
+            "nam": "Market on the Square",
+            "loc": [
+                -81.637202,
+                41.226383
+            ]
+        },
+        {
+            "uid": "601ace2edf52de221d014278",
+            "nam": "McClish's Plants Plus Greenhouses LLC",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/601ace2edf52de221d014278_lgl.jpg?1612369713"
+            },
+            "loc": [
+                -83.4712282,
+                39.5748383
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b2699",
+            "nam": "McClure Methodist Church's Farmers' and Crafters' Market",
+            "loc": [
+                -83.9418874,
+                41.3714402
+            ]
+        },
+        {
+            "uid": "596d0fe59865a1ed7c706edf",
+            "nam": "Medina Square Farmers Market",
+            "cnm": "Saturday mornings, June 6-Oct 17, 8am-1pm (8-9am set aside for senior citizens)",
+            "loc": [
+                -81.863754,
+                41.1377978
+            ]
+        },
+        {
+            "uid": "5b4751bbf033bf9338af2da4",
+            "nam": "Mentor Farmers Market",
+            "cnm": "Open Fridays: June 26 - September 25, 2 - 6 p.m.",
+            "loc": [
+                -81.3427113,
+                41.7048608
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b269f",
+            "nam": "Miamisburg Farmer's Market",
+            "loc": [
+                -84.3190801,
+                39.6436405
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b26a5",
+            "nam": "Montgomery Farmers' Market",
+            "cnm": "Open the first Saturday in May until the last Saturday in October",
+            "loc": [
+                -84.3539585,
+                39.2314639
+            ]
+        },
+        {
+            "uid": "6425c78efc0eb419637c4ba2",
+            "nam": "Moon Farm",
+            "loc": [
+                -81.0130254,
+                41.0979473
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b26a7",
+            "nam": "Morrow Farmers Market",
+            "loc": [
+                -84.134165,
+                39.355193
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b26a8",
+            "nam": "Mt. Hope Farm Market",
+            "loc": [
+                -83.046304,
+                40.085857
+            ]
+        },
+        {
+            "uid": "57f56c58178f4e557a7b26a9",
+            "nam": "Mt. Washington Farmers' Market",
+            "loc": [
+                -84.3815181,
+                39.0882175
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26aa",
+            "nam": "Munroe Falls Farmers Market",
+            "loc": [
+                -81.4431774,
+                41.138423
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ab",
+            "nam": "Murray Hill Farm",
+            "loc": [
+                -82.381849,
+                41.170264
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ae",
+            "nam": "NEOMED Farmers' Market",
+            "loc": [
+                -81.245098,
+                41.103177
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26af",
+            "nam": "New Concord Farmers' Market",
+            "loc": [
+                -81.868958,
+                39.961547
+            ]
+        },
+        {
+            "uid": "59075822178f4e5a0e65299f",
+            "nam": "New Richmond Farmers' Market & Vintage Flea",
+            "cnm": "Open May - Sept. from 10:30 am to 2:30 pm the 2nd & 4th Saturday of the month.",
+            "loc": [
+                -84.2799919,
+                38.952426
+            ]
+        },
+        {
+            "uid": "6050ccec416ba12da659edc9",
+            "nam": "North Canton Farmers' Market",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/6050ccec416ba12da659edc9_lgl.jpg?1615908164"
+            },
+            "loc": [
+                -81.3084361,
+                40.9174792
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b0",
+            "nam": "North Coast Harbor Farmers' Market",
+            "loc": [
+                -81.6897977,
+                41.511619
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b1",
+            "nam": "North Lewisburg Farmers Market",
+            "loc": [
+                -83.557427,
+                40.2231134
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b2",
+            "nam": "North Market Farmers' Market",
+            "cnm": "Open June thru October each&#160;Saturday from 8:00am to Noon",
+            "loc": [
+                -83.0043304,
+                39.9718961
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b3",
+            "nam": "North Union Farmers Market -- Chagrin Falls",
+            "loc": [
+                -81.5896244,
+                41.4832208
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b4",
+            "nam": "North Union Farmers Market -- Cleveland Clinic",
+            "loc": [
+                -81.5896244,
+                41.4832208
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b5",
+            "nam": "North Union Farmers Market-Cleveland State University",
+            "loc": [
+                -81.5896244,
+                41.4832208
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b6",
+            "nam": "NORTHEAST OHIO FARMERS MARKET",
+            "loc": [
+                -81.814779,
+                41.228122
+            ]
+        },
+        {
+            "uid": "5b474e35afd691612c6743af",
+            "nam": "Northmont Community Market",
+            "cnm": "Open Sundays 11am-3pm, June- October",
+            "loc": [
+                -84.2700385,
+                39.7985711
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b274b",
+            "nam": "Northside Farmers' market",
+            "loc": [
+                -80.645071,
+                41.115893
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b7",
+            "nam": "Oak Harbor Farmer's Market",
+            "loc": [
+                -83.146833,
+                41.507335
+            ]
+        },
+        {
+            "uid": "5f2ab9d6735b1a3376467a96",
+            "nam": "Oak Hill Farmers' Market",
+            "cnm": "June-October 1:00 PM - 4:00 PM",
+            "loc": [
+                -81.599406,
+                41.245246
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26b8",
+            "nam": "Oakland Nursery Farmers' Market",
+            "loc": [
+                -83.0391178,
+                40.2961947
+            ]
+        },
+        {
+            "uid": "5cb9e394afd691353dc8a953",
+            "nam": "Oberlin Farmers Market",
+            "cnm": "May 14 through to October 15, 2022, 9 A.M. to 12 P.M.",
+            "loc": [
+                -82.2171741,
+                41.2897866
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ba",
+            "nam": "Oberlin Winter Market",
+            "loc": [
+                -82.2101733,
+                41.291576
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26bb",
+            "nam": "Ohio Valley Farmers' Market",
+            "loc": [
+                -80.7423054,
+                40.0161843
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26bc",
+            "nam": "OhioOrigins.com",
+            "loc": [
+                -82.877016,
+                40.024319
+            ]
+        },
+        {
+            "uid": "5dd2ba3df033bfe3103c69ff",
+            "nam": "Old Washington Meat, Eggs & Produce",
+            "loc": [
+                -81.4409458,
+                40.0378137
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26bd",
+            "nam": "Old Way Farm & Market",
+            "loc": [
+                -82.2320226,
+                41.2652649
+            ]
+        },
+        {
+            "uid": "5e555b81e79c6978ba3bc357",
+            "nam": "Olde Pickerington Farmers' Market",
+            "cnm": "Thursdays June - Sep  4-7PM",
+            "loc": [
+                -82.7562895,
+                39.898703
+            ]
+        },
+        {
+            "uid": "6113e63b6a667b654f3c7ceb",
+            "nam": "Orchard Lane Events' Farmer's Market",
+            "cnm": "2185 Ohio 235, Xenia, OH 45385",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/6113e63b6a667b654f3c7ceb_lgl.jpg?1677611986"
+            },
+            "loc": [
+                -83.9417185,
+                39.7465531
+            ]
+        },
+        {
+            "uid": "5d57108dafd6910b537b23c6",
+            "nam": "OSBORNE PARK MARKET & FLEA",
+            "cnm": "Wednesdays June-September 4pm-7pm",
+            "loc": [
+                -81.3988984,
+                41.6990963
+            ]
+        },
+        {
+            "uid": "5eeb59bbacd3a078c47460d4",
+            "nam": "Osborne Park Market and Flea",
+            "loc": [
+                -81.3988984,
+                41.6990963
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26bf",
+            "nam": "Osborne Park Sunday Outdoor Market",
+            "loc": [
+                -81.39,
+                41.61
+            ]
+        },
+        {
+            "uid": "58c987209865a1b02be64ac1",
+            "nam": "OSU Marion Farmers Market",
+            "cnm": "Open every Saturday 3 pm - 6 pm May 6th - October 14th.",
+            "loc": [
+                -83.1325688,
+                40.5888828
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2738",
+            "nam": "Pearl Market",
+            "loc": [
+                -82.9966512,
+                39.963296
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26c3",
+            "nam": "Perrysburg Farmers Market",
+            "loc": [
+                -83.6285019,
+                41.5571118
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26c6",
+            "nam": "Pickaway County Farmers Market",
+            "loc": [
+                -83.128252,
+                39.660776
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26c8",
+            "nam": "Pitstick Pastures & Produce",
+            "loc": [
+                -83.950208,
+                39.817427
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26c9",
+            "nam": "Plain City Farmers Market",
+            "loc": [
+                -83.2696233,
+                40.1078472
+            ]
+        },
+        {
+            "uid": "6113c0f9beb9cd708a375b77",
+            "nam": "Powell Chamber Farmers Market",
+            "loc": [
+                -83.0744742,
+                40.1627626
+            ]
+        },
+        {
+            "uid": "5b6db107afd6910a247d539c",
+            "nam": "Prairie Township Farmers' Market",
+            "cnm": "Market Open-Mondays June-September 4pm-7pm",
+            "loc": [
+                -83.1589538,
+                39.9502688
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26cf",
+            "nam": "Rainbow Farms",
+            "loc": [
+                -81.105184,
+                41.8059269
+            ]
+        },
+        {
+            "uid": "5b474c44afd691e12b6743b0",
+            "nam": "Reynoldsburg Farmers Market",
+            "cnm": "Open Thursdays 4pm-7pm, June -September",
+            "loc": [
+                -82.8057349,
+                39.9555375
+            ]
+        },
+        {
+            "uid": "5dcc4bcfafd691f6397b23c6",
+            "nam": "River CIty Farmers Market",
+            "loc": [
+                -81.4527009,
+                39.4134049
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26d4",
+            "nam": "Rogers Community Auction and Flea Market",
+            "loc": [
+                -80.6397631,
+                40.7941038
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26d6",
+            "nam": "Roseville Farmers Market",
+            "loc": [
+                -82.02184,
+                39.9678458
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26d9",
+            "nam": "Sabina Farmers' Market",
+            "loc": [
+                -83.6368659,
+                39.4886732
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26dc",
+            "nam": "Sanfillipo Produce",
+            "loc": [
+                -82.8814532,
+                39.98635
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26de",
+            "nam": "Saum Family Farms",
+            "loc": [
+                -82.6930715,
+                39.6442527
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26e5",
+            "nam": "Settlage Century Farm",
+            "loc": [
+                -84.337698,
+                40.531647
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26e7",
+            "nam": "Shelby Farmer's Market",
+            "loc": [
+                -82.574333,
+                40.891307
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ee",
+            "nam": "Spencerville Farmers Market",
+            "loc": [
+                -84.3289174,
+                40.7073527
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ef",
+            "nam": "Spencerville OH Farmers Market",
+            "loc": [
+                -84.3289174,
+                40.7073527
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26f1",
+            "nam": "Springdale Farmers' Market",
+            "loc": [
+                -84.499291,
+                39.293554
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26f2",
+            "nam": "Springfield Farmers Market",
+            "loc": [
+                -83.811421,
+                39.9228506
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26f3",
+            "nam": "St. Paris Farmer's Market",
+            "loc": [
+                -83.9600241,
+                40.1285025
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26f8",
+            "nam": "Stow Community Farmers Market",
+            "loc": [
+                -81.451898,
+                41.16869
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26fa",
+            "nam": "Strongsville Farmers' Market",
+            "loc": [
+                -81.8272274,
+                41.3186525
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26fb",
+            "nam": "Stubbs Family Farm",
+            "loc": [
+                -84.435761,
+                39.617527
+            ]
+        },
+        {
+            "uid": "628fa23f91a5d968ae2f0cb4",
+            "nam": "Sylvania Farmers Market",
+            "loc": [
+                -83.7036187,
+                41.7167454
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b26ff",
+            "nam": "Sysco Farmers Market",
+            "loc": [
+                -81.8407977,
+                41.4260077
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2700",
+            "nam": "Talawands Original Farm Market",
+            "loc": [
+                -84.722748,
+                39.433889
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2705",
+            "nam": "The Edison Depot",
+            "loc": [
+                -82.867488,
+                40.557608
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2706",
+            "nam": "The Farmers' Market @ Gertz Garden Center llc",
+            "loc": [
+                -84.452208,
+                39.224486
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2707",
+            "nam": "The Great Sidney Farmers' Market",
+            "cnm": "Saturdays, Mid-May to Mid-October, 8:00 a.m. to Noon",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/57f56c59178f4e557a7b2707_lgl.jpg?1682347688"
+            },
+            "loc": [
+                -84.1569836,
+                40.2854383
+            ]
+        },
+        {
+            "uid": "5907579907ac80b736be68db",
+            "nam": "The Market on Michigan Avenue",
+            "cnm": "Open May 5 - October 27 from 2 pm to 6 pm.",
+            "loc": [
+                -100.8534779,
+                43.2327824
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b2708",
+            "nam": "The Old Hen House Farmers' Market and Collectibles",
+            "loc": [
+                -82.569376,
+                39.958005
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b270a",
+            "nam": "The Original Talawanda Farmer's Market",
+            "loc": [
+                -84.722748,
+                39.433889
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b270b",
+            "nam": "THE PRAIRIE FARMER'S MARKET",
+            "loc": [
+                -83.129504,
+                39.944358
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b270c",
+            "nam": "The Raven's Farmers Market",
+            "loc": [
+                -82.9161033,
+                39.9388298
+            ]
+        },
+        {
+            "uid": "57f56c59178f4e557a7b270f",
+            "nam": "Thursday with the Farmer",
+            "loc": [
+                -81.6936185,
+                41.4969048
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2714",
+            "nam": "Towpath Trail YMCA Farmers' Market",
+            "loc": [
+                -81.5168054,
+                40.73388
+            ]
+        },
+        {
+            "uid": "6050d05dc48f600a8545b6ea",
+            "nam": "Tremont Farmers Market",
+            "cnm": "Market Location: Lincoln Park / 2609 West 14th Street, Cleveland, Ohio 44113",
+            "loc": [
+                -81.7047989,
+                41.4422094
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2716",
+            "nam": "Twinsburg Farmers Market",
+            "loc": [
+                -81.4478297,
+                41.3183054
+            ]
+        },
+        {
+            "uid": "5fda686ac552be65bf178b19",
+            "nam": "Urban Honey Bee`",
+            "loc": [
+                -81.6716367,
+                40.9525083
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2719",
+            "nam": "Van Wert County Farmers' Market",
+            "loc": [
+                -84.6963364,
+                40.8223967
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b271a",
+            "nam": "Vandalia Community Farmers Market",
+            "loc": [
+                -84.2071436,
+                39.889723
+            ]
+        },
+        {
+            "uid": "6425cb22a852154540079f03",
+            "nam": "Village Creek Farmers Market",
+            "loc": [
+                -82.8683949,
+                40.2902616
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b271d",
+            "nam": "Village Market Square",
+            "loc": [
+                -83.0143443,
+                39.0681252
+            ]
+        },
+        {
+            "uid": "599ae7a8178f4e0f6a77c7c7",
+            "nam": "Village Peddler Festival",
+            "loc": [
+                -80.8547589,
+                41.7719863
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b271f",
+            "nam": "Wakeman Farmers Market",
+            "loc": [
+                -82.367394,
+                41.277956
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2720",
+            "nam": "Warszawa Farmers' Market",
+            "loc": [
+                -81.6512695,
+                41.4665396
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2721",
+            "nam": "Waynesville Farmer's Market",
+            "loc": [
+                -84.086601,
+                39.5297824
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2724",
+            "nam": "West Carrollton Farmers Market",
+            "loc": [
+                -84.2482764,
+                39.6726682
+            ]
+        },
+        {
+            "uid": "5c13a958f033bf6a588af765",
+            "nam": "West Chester Ohio Farmers Market",
+            "loc": [
+                -84.4555181,
+                39.3935832
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2725",
+            "nam": "West Jefferson Farmers' Market",
+            "loc": [
+                -83.2694549,
+                39.945107
+            ]
+        },
+        {
+            "uid": "645151b15a9a413d020008f2",
+            "nam": "West Organics",
+            "loc": [
+                -83.5019178,
+                39.2025392
+            ]
+        },
+        {
+            "uid": "5ece6e2943889c2f43180826",
+            "nam": "Westerville Saturday Farmers Market",
+            "cnm": "Every Saturday May 23rd, 2020 through October 10th, 2020 from 9am - 12pm",
+            "loc": [
+                -82.9306179,
+                40.1263181
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2727",
+            "nam": "Westgate Farmers Market",
+            "loc": [
+                -83.077053,
+                39.952034
+            ]
+        },
+        {
+            "uid": "58c97f3c07ac8023532e52a7",
+            "nam": "Westgate Farmers Market",
+            "cnm": "Open the 1st and 3rd Saturday of the month from June to October.",
+            "lgo": {
+                "s": "https://cdn.membershipworks.com/u/58c97f3c07ac8023532e52a7_lgl.jpg?1617736571"
+            },
+            "loc": [
+                -83.0785605,
+                39.9542301
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2735",
+            "nam": "Willoughby Outdoor Market",
+            "cnm": "Saturdays May -October, 8:00 am-Noon, Rain or shine",
+            "loc": [
+                -81.4051548,
+                41.6398237
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2736",
+            "nam": "Winter Farmers' Market at Lock 3",
+            "loc": [
+                -81.516519,
+                41.0819591
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2737",
+            "nam": "Winter Oxford Farmers Market Uptown",
+            "loc": [
+                -84.745231,
+                39.5069974
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b273f",
+            "nam": "Woodville Farmers' Market",
+            "loc": [
+                -83.3902546,
+                41.4382459
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2741",
+            "nam": "Worthington Farmers' Market",
+            "cnm": "Central Ohio&apos;s largest year-round market.",
+            "loc": [
+                -83.017962,
+                40.0931191
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2743",
+            "nam": "Wyandot County Farmer's Market",
+            "loc": [
+                -83.2994894,
+                40.8288277
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2744",
+            "nam": "Wyoming Ave. Farmers' Market",
+            "loc": [
+                -84.4657758,
+                39.2311691
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2745",
+            "nam": "Xenia Farmers Market",
+            "cnm": "May through September, 9am - 12noon, on N. Detroit, E. Main & Greene Streets",
+            "loc": [
+                -83.929066,
+                39.6848659
+            ]
+        },
+        {
+            "uid": "5b475177afd691f02c6743b0",
+            "nam": "Xenos Christian Farmer's Market",
+            "cnm": "Open July 15, August 12 & September 9",
+            "loc": [
+                -82.955829,
+                40.1048767
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2747",
+            "nam": "Yellow Springs 4 Season Farmers Market",
+            "cnm": "Saturdays 8-12pm April-November and 9-11am December-March",
+            "loc": [
+                -83.8870943,
+                39.8083173
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b2748",
+            "nam": "Yoder Farms",
+            "loc": [
+                -83.356482,
+                40.035276
+            ]
+        },
+        {
+            "uid": "57f56c5a178f4e557a7b274e",
+            "nam": "Zanesville Farmers Market",
+            "loc": [
+                -82.01,
+                39.9
+            ]
+        }
+    ],
+    "_re": 735,
+    "_st": {
+        "ylp": [
+            {
+                "dat": "tag"
+            },
+            {
+                "dat": "adr",
+                "ttl": "by City or Zip Code",
+                "rad": "M",
+                "con": "US"
+            },
+            {
+                "ttl": "by County",
+                "dat": [
+                    {
+                        "_id": "xct",
+                        "typ": 1,
+                        "req": 1,
+                        "err": "Please enter your county",
+                        "lbl": "County"
+                    }
+                ]
+            }
+        ],
+        "crd": {
+            "typ": 0,
+            "dtl": "[lgo]<div class=\"SFcrdtxt\"><div class=\"SFcrdnam\">[nam]</div><div class=\"SFcrdcnm\">[cnm]</div></div><div class=\"SFcrdrec\">[cpn?<i class=\"SFicotag_r\" role=\"presentation\" title=\"Deal\"></i>][ir5?<i class=\"SFicorec_r\" role=\"presentation\" title=\"Recommended\"></i>]</div>"
+        }
+    }
+}
