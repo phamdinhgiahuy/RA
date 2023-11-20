@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-from multiprocessing import Pool, cpu_count
+from multiprocessing import Pool
 import os
 
 def check_url(args):
@@ -36,28 +36,29 @@ def list_excel(folder):
             files_path.append(os.path.join(folder, file))
     return files_path
 
-print(cpu_count())
-# if __name__ == '__main__':
-#     excels_folder = 'checkbystate'
-#     excels = list_excel(excels_folder)
-#     for excel_path in excels:
-#         df = pd.read_excel(excel_path, sheet_name=0, usecols=['state', 'title', 'url', 'domain' ])
-#         excel_out_path = excel_path.replace('.xlsx', "") + "_status_checked.xlsx"
+if __name__ == '__main__':
+    excels_folder = 'checkbystate'  #folder containing file to check
+    excels = list_excel(excels_folder)
+    print(excels)
+    for excel_path in excels:
+        df = pd.read_excel(excel_path, sheet_name=0, usecols=['state', 'title', 'url', 'domain' ])
+        excel_out_path = excel_path.replace('.xlsx', "") + "_status_checked.xlsx"
 
-#         df["web_status"] = ''
-#         df["web_error"] = ''
-#         url_list = df.url
+        df["web_status"] = ''
+        df["web_error"] = ''
+        url_list = df.url
 
-#         # Define the number of processes to use (you can adjust this based on your system's capabilities)
-#         num_processes = 6
+        # change depending on CPU cores
+        num_processes = 8
 
-#         # Use Pool to parallelize the processing
-#         with Pool(processes=num_processes) as pool:
-#             results = pool.map(process_row, df.iterrows())
+        # Use Pool to parallelize the processing
+        with Pool(processes=num_processes) as pool:
+            results = pool.map(process_row, df.iterrows())
 
-#         # Update the DataFrame with the results
-#         for index, result in results:
-#             df.at[index, 'web_status'] = result['web_status']
-#             df.at[index, 'web_error'] = result['web_error']
+        # Update the DataFrame with the results
+        for index, result in results:
+            df.at[index, 'web_status'] = result['web_status']
+            df.at[index, 'web_error'] = result['web_error']
 
-#         df.to_excel(excel_out_path)
+        df.to_excel(excel_out_path)
+ 

@@ -1,42 +1,41 @@
+import json
+import os
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-import time
-import re
-import os
-import json
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup
-import pprint
-from datetime import timedelta, date,datetime
+
 
 def safe_open_w(path):
+    """Open a file safely."""
     os.makedirs(os.path.dirname(path), exist_ok=True)
     return open(path, 'w')
 
 def pp_json(json_thing, sort=False, indents=4):
-      if type(json_thing) is str:
-        return (json.dumps(json.loads(json_thing), sort_keys=sort, indent=indents))
-      else:
-            return (json.dumps(json_thing, sort_keys=sort, indent=indents))
+    """Pretty print JSON data."""
+    if type(json_thing) is str:
+        return json.dumps(json.loads(json_thing), sort_keys=sort, indent=indents)
+    else:
+        return json.dumps(json_thing, sort_keys=sort, indent=indents)
 
 def load_json(path):
+    """Load JSON data from a file."""
     with open(path) as json_data:
         data = json.load(json_data)
-        json_data.close()
     return data
 
 def save_pages(save_path, id):
+    """Save pages to a file."""
     os.makedirs(save_path, exist_ok=True)
-    n=os.path.join(save_path, id + ".html")
+    n = os.path.join(save_path, id + ".html")
     return open(n, 'w', encoding="utf-8")
 
 def get_currenttime():
-    # Get the current date and time
+    """Get the current date and time as a formatted string."""
     current_datetime = datetime.now()
-    # Convert the datetime object to a string
     return current_datetime.strftime('%Y-%m-%d %H:%M:%S')
 
 def get_template_new(current_datetime_string, host):
@@ -71,13 +70,16 @@ def get_template_new(current_datetime_string, host):
             }
 
 
+# Load JSON data
 json_data = load_json('OH/data/child_link.json')
-#pages = []
+
+# Initialize variables
 save_folder = 'OH/data/listed_page/'
 prefix = "http://ohioproud.org/farm-markets-all/farmers-market-search/find-a-farmers-market/"
-#cwd = os.getcwd()
 pages_count = len(json_data)
-items =[]
+items = []
+
+# Iterate through pages
 for data in json_data:
     pages_count += -1
     print(f'{pages_count} pages left to save')
@@ -104,11 +106,7 @@ for data in json_data:
         element_contact = driver.find_element(By.CSS_SELECTOR, '#SFbizpne1')
         elementHTML2 = element_contact.get_attribute('outerHTML')
         elementSoup2 = BeautifulSoup(elementHTML2,'html.parser')
-        #pprint.pprint(element)
-        
-        #pprint.pprint(elementSoup1)
-        #print("aaaaaa")
-        #pprint.pprint(elementSoup2)
+
         cur_time = get_currenttime()
         template = get_template_new(cur_time, page)
         template["individuallink"] = data['individuallink']

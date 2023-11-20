@@ -1,0 +1,277 @@
+state:   CA
+type:   individual
+https://www.sonoma.com/businesses/16629/west-end-farmers-market
+title:   West End Farmers Market – Santa Rosa, CA - Sonoma.com
+title_s: sonoma.com|https://www.sonoma.com| › businesses › west-end-far...
+comments: farmers market website
+
+```````````````````````````````````````
+~~marketname:
+~~region:
+~~loop items:n
+~~format: text
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Portfolio
+
+  * [](<https://www.napavalley.com/>)
+  * [](<https://www.sonoma.com/>)
+  * [](<https://www.winecountry.com/>)
+
+
+
+[My Account](<https://www.winecountry.com/my-account>) [ Cart ](<https://www.winecountry.com/cart>)
+
+  * [Blog](<https://www.sonoma.com/blog/>)
+  * [Restaurants](<https://www.sonoma.com/restaurants/>)
+  * [Corporate/Group Events](<https://www.sonoma.com/event-planning/corporate-events/>)
+  * [Weddings](<https://www.sonoma.com/event-planning/weddings/>)
+  * [Events](</events>)
+  * [Contact](<https://www.sonoma.com/contact/>)
+
+
+
+[ ](<https://www.sonoma.com/>) [ ](<#>)
+
+  * [ __](<#> "Search")
+  * [ __](<https://www.facebook.com/SonomaWineCountry> "Facebook")
+  * [ __](<https://twitter.com/sonoma> "Twitter")
+  * [ __](<https://www.pinterest.com/sonomacom/> "Pinterest")
+  * [ __](<https://www.instagram.com/sonoma/> "Instagram")
+
+
+
+  * [COVET PASS](<https://www.covetpass.com>)
+  * [Experiences](<https://www.sonoma.com/experiences/>)
+  * [REGIONS](<https://www.sonoma.com/explore/>)
+    * [Explore Sonoma County](<https://www.sonoma.com/explore/>)
+    * [Northern Sonoma County](<https://www.sonoma.com/explore/northern-sonoma-county/>)
+    * [Central Sonoma County](<https://www.sonoma.com/explore/central-sonoma-county/>)
+    * [Southern Sonoma County](<https://www.sonoma.com/explore/southern-sonoma-county/>)
+    * [Coastal Sonoma County](<https://www.sonoma.com/explore/coastal-sonoma-county/>)
+  * [Plan](</>)
+    * [How to Get To Sonoma County](<https://www.sonoma.com/blog/how-to-get-to-sonoma-county/>)
+    * [Guides & Itineraries](<https://www.sonoma.com/guides/>)
+    * [Events Calendar](</events/>)
+    * [Buy Covet Pass](<https://www.covetpass.com>)
+    * [Blog](<https://www.sonoma.com/blog/>)
+    * [Maps](<https://www.sonoma.com/maps/>)
+    * [Sonoma County Weather](<https://www.sonoma.com/weather/>)
+  * [Lodging](<https://www.sonoma.com/lodging/>)
+    * [Lodging Deals](</businesses?category=Lodging&tags=lodging-deals>)
+    * [Resorts & Spas](</businesses/?category=Lodging&tags=resorts-and-spas>)
+    * [Hotels](</businesses/?category=Lodging&tags=hotels>)
+    * [Bed & Breakfast and Inns](</businesses/?category=Lodging&tags=bed-and-breakfasts-inns>)
+    * [Vacation Rentals](</businesses/?category=Lodging&tags=vacation-rentals>)
+  * [Spas](<https://www.sonoma.com/spas/>)
+  * [Wineries](<https://www.sonoma.com/wineries/>)
+    * [Sonoma County Wineries](<https://www.sonoma.com/wineries/>)
+  * [Things To Do](<https://www.sonoma.com/thingstodo/>)
+    * [Wine Tours & Sightseeing](<https://www.sonoma.com/businesses/?category=Things%20To%20Do&tags=wine-tours-and-sightseeing>)
+    * [Outdoor Activities](<https://www.sonoma.com/businesses/?category=Things%20To%20Do&tags=outdoor-activities>)
+    * [Culinary Activities](<https://www.sonoma.com/businesses/?category=Things%20To%20Do&tags=culinary-activities>)
+    * [Cannabis Resources](<https://www.napavalley.com/cannabis-in-wine-country/>)
+    * [Breweries & Distilleries](</businesses?category=Things%20To%20Do&tags=breweries-and-distilleries>)
+    * [Ballooning](<https://www.sonoma.com/businesses?q=&category=Things%20To%20Do&tags=hot-air-balloon-tours-and-rides>)
+    * [Golf](<https://www.sonoma.com/businesses?q=&category=Things%20To%20Do&tags=golf>)
+    * [Attractions](<https://www.sonoma.com/businesses?q=&category=Things%20To%20Do&tags=attractions>)
+    * [Shopping](<https://www.sonoma.com/businesses?q=&category=Things%20To%20Do&tags=shopping>)
+    * [Arts & Entertainment](<https://www.sonoma.com/businesses/?category=Things%20To%20Do&tags=arts-and-entertainment>)
+    * [Nightlife](<https://www.sonoma.com/businesses/?category=Things%20To%20Do&tags=nightlife>)
+    * [Farmer’s Markets](<https://www.sonoma.com/businesses?q=&category=Things%20To%20Do&tags=farmers-markets>)
+
+
+
+[ __](<#> "Close search form")
+
+×
+
+  * [COVET PASS](<https://www.covetpass.com>)
+    * [Buy Premier Wine Tasting Pass](<https://www.covetpass.com>)
+    * [Covet Pass Account Login](<https://www.winecountry.com/my-account/>)
+  * [EXPERIENCES](<https://www.sonoma.com/experiences/>)
+    * [Reserve Wine & Food Experience](<https://www.sonoma.com/experiences/>)
+  * PLAN YOUR TRIP
+    * [Wineries](<https://www.sonoma.com/wineries/>)
+    * [Lodging](<https://www.sonoma.com/lodging/>)
+    * [Things To Do](<https://www.sonoma.com/thingstodo/>)
+    * [Cannabis Resources](<https://www.napavalley.com/cannabis-in-wine-country/>)
+    * [Spas](<https://www.sonoma.com/spas/>)
+    * [Restaurants](<https://www.sonoma.com/restaurants/>)
+    * [Lodging Deals](</businesses?category=Lodging&tags=lodging-deals/>)
+    * [Events Calendar](</events>)
+  * [EXPLORE](<https://www.sonoma.com/explore/>)
+    * [Blog](<https://www.sonoma.com/blog/>)
+    * [Guides](<https://www.sonoma.com/guides/>)
+    * [Shop](<https://shop.winecountry.com/>)
+    * [Maps](<https://www.sonoma.com/maps/>)
+    * [Weather](<https://www.sonoma.com/weather/>)
+    * [Sonoma County Regions](</>)
+      * [Northern](<https://www.sonoma.com/explore/northern-sonoma-county/>)
+      * [Central](<https://www.sonoma.com/explore/central-sonoma-county/>)
+      * [Southern](<https://www.sonoma.com/explore/southern-sonoma-county/>)
+      * [Coastal](<https://www.sonoma.com/explore/coastal-sonoma-county/>)
+  * [FOR GROUPS](<https://www.sonoma.com/event-planning/>)
+    * [Weddings](<https://www.sonoma.com/event-planning/weddings/>)
+    * [Corporate/Group](<https://www.sonoma.com/event-planning/corporate-events/>)
+    * [Transportation](<https://www.sonoma.com/transportation/>)
+  * ABOUT US
+    * [About](<https://www.sonoma.com/about/>)
+    * [Contact](<https://www.sonoma.com/contact/>)
+    * [Accessibility Statement](<https://www.sonoma.com/accessibility/>)
+    * [Advertise](<https://www.sonoma.com/advertise/>)
+    * [Account Login](<https://www.winecountry.com/my-account/>)
+
+
+
+[Get The Newsletter](</newsletter-signup>)
+
+  * [ __](<https://www.facebook.com/SonomaWineCountry> "Facebook")
+  * [ __](<https://twitter.com/sonoma> "Twitter")
+  * [ __](<https://www.pinterest.com/sonomacom/> "Pinterest")
+  * [ __](<https://www.instagram.com/sonoma/> "Instagram")
+
+
+
+  * [](<https://www.napavalley.com>)
+  * [](<https://www.sonoma.com>)
+  * [](<https://www.winecountry.com>)
+
+
+
+[home](</>) / [Things To Do](</businesses/?category=Things+To+Do>) / Santa Rosa
+
+# West End Farmers Market
+
+Contact
+
+  * [\(707\) 477-8422](<tel:\(707\) 477-8422>)
+  * Railroad Square \#9, Fourth Street., Santa Rosa CA 95401 
+
+
+
+## Welcome
+
+Located in the heart of Railroad Square, this vibrant community gathering place for local farmers, crafters and artisans to offer their wares to the public.  Every Sunday from 9:30am - 2pm, April through September. Visit the seafood guy and get some grilled oysters to enjoy in the shaded eating area before shopping for your fresh produce.   
+
+
+Read More
+
+## At A Glance
+
+
+
+
+## Location
+
+West End Farmers Market  
+Railroad Square \#9, Fourth Street., Santa Rosa CA 95401   
+\(707\) 477-8422  
+
+
+[+](<#> "Zoom in")[-](<#> "Zoom out")
+
+500 m
+
+2000 ft
+
+  * ###### Sponsored ad
+
+  * ###### Sponsored ad
+
+  * ###### Sponsored ad
+
+
+
+
+  * [GET TO KNOW](</explore/>)
+
+    * [Northern Sonoma County](<https://www.sonoma.com/explore/northern-sonoma-county/>)
+    * [Central Sonoma County](<https://www.sonoma.com/explore/central-sonoma-county/>)
+    * [Southern Sonoma County](<https://www.sonoma.com/explore/southern-sonoma-county/>)
+    * [Coastal Sonoma County](<https://www.sonoma.com/explore/coastal-sonoma-county/>)
+
+  * [EXPLORE](</explore/>)
+
+    * [See What’s Open](<https://www.sonoma.com/sonoma-county-businesses-who-is-open-and-closed/>)
+    * [Guides](<https://www.sonoma.com/guides/>)
+    * [Blog](<https://www.sonoma.com/blog/>)
+    * [Event Calendar](</events/>)
+    * [Maps](<https://www.sonoma.com/maps/>)
+    * [Sonoma County Weather](<https://www.sonoma.com/weather/>)
+    * [Deals](<https://www.sonoma.com/deals/>)
+
+  * [BUY](</lodging/>)
+
+    * [Covet Pass](<https://www.winecountry.com/product/covet-pass/>)
+    * [Experiences](<https://www.sonoma.com/experiences/>)
+    * [WineCountryShop.com](<https://shop.winecountry.com>)
+
+  * [LODGING](</lodging/>)
+
+    * [Bed & Breakfast and Inns](<https://www.sonoma.com/lodging/bed-and-breakfast-inns/>)
+    * [Hotels](<https://www.sonoma.com/lodging/hotels/>)
+    * [Resorts & Spas](</businesses/?category=Lodging&tags=resorts-and-spas>)
+    * [Vacation Rentals](<https://www.sonoma.com/lodging/vacation-rentals/>)
+
+
+
+
+  * [Wineries](</wineries/>)
+
+    * [  ](<http:// >)
+    * [RESTAURANTS](<https://www.sonoma.com/restaurants/>)
+    * [  ](<http:// >)
+    * [SPAS](<https://www.sonoma.com/spas/>)
+
+  * [THINGS TO DO](</thingstodo/>)
+
+    * [Wine Tours & Sightseeing](</?category=Things%20To%20Do&tags=wine-tours-and-sightseeing>)
+    * [Ballooning](</businesses?q=&category=Things%20To%20Do&tags=hot-air-balloon-tours-and-rides>)
+    * [Outdoor Activities](</businesses/?category=Things%20To%20Do&tags=outdoor-activities>)
+    * [Golf](</businesses?q=&category=Things%20To%20Do&tags=golf>)
+    * [Shopping](</businesses?q=&category=Things%20To%20Do&tags=shopping>)
+    * [Farmer’s Markets](</businesses?q=&category=Things%20To%20Do&tags=farmers-markets>)
+    * [Attractions](</businesses?q=&category=Things%20To%20Do&tags=attractions>)
+    * [Nightlife](</businesses/?category=Things%20To%20Do&tags=nightlife>)
+
+  * [EVENT PLANNING](</event-planning/>)
+
+    * [Weddings](<https://www.sonoma.com/event-planning/weddings/>)
+    * [Corporate & Group Events](<https://www.sonoma.com/event-planning/corporate-events/>)
+    * [Transportation](<https://www.sonoma.com/transportation/>)
+    * [Tours & Experiences](<https://www.sonoma.com/event-planning/tours-experiences/>)
+
+  * [CORPORATE](</about/>)
+
+    * [About](<https://www.sonoma.com/about/>)
+    * [Media Kit](<https://www.sonoma.com/2023-media-kit/>)
+    * [Advertise With Us](<https://www.sonoma.com/advertise/>)
+    * [Contact](<https://www.sonoma.com/contact/>)
+    * [Privacy Policy](</privacy/>)
+    * [Accessibility Statement](<https://www.sonoma.com/accessibility/>)
+    * [Site Map](<https://www.sonoma.com/site-map/>)
+
+
+
+
+[](<https://www.winecountry.com>)
+
+  * [](<https://www.napavalley.com>)
+  * [](<https://www.sonoma.com>)
+  * [](<https://www.winecountry.com>)
+  * [](<https://www.winecountry.com/product/covet-pass/>)
+
+
+
+© 2023 WineCountry Media, LLC. All rights reserved.
+
+Enable JavaScript to ensure [website accessibility](<https://userway.org>)
+
+Notifications
+
+
+
